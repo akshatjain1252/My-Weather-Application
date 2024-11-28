@@ -1,0 +1,3 @@
+C:\Users\91858\Desktop\resume\projects of resume\my weather app\Debug\my weather app.exe
+C:\Users\91858\Desktop\resume\projects of resume\my weather app\Debug\my weather app.vcxproj.CopyComplete
+C:\Users\91858\Desktop\resume\projects of resume\my weather app\Debug\cpprest141_2_10d.dll
